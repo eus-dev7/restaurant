@@ -1,0 +1,12 @@
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\bin\Debug\Proyecto_Scrum.exe
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\bin\Debug\Proyecto_Scrum.pdb
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\bin\Debug\MySql.Data.dll
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.Form1.resources
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.Principal.resources
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.Properties.Resources.resources
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.csproj.GenerateResource.Cache
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.exe
+c:\users\eustaquio\documents\visual studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.pdb
+C:\Users\Eustaquio\Documents\Visual Studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.csprojResolveAssemblyReference.cache
+C:\Users\Eustaquio\Documents\Visual Studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.Clientes.resources
+C:\Users\Eustaquio\Documents\Visual Studio 2010\Projects\Proyecto_Scrum\Proyecto_Scrum\obj\x86\Debug\Proyecto_Scrum.Empleado.resources
